@@ -1,0 +1,23 @@
+{
+  "site": "slow-form",
+  "title": "A Close Up of Tea being Poured into a Cup",
+  "creator": "Ivan S",
+  "source_url": "https://www.pexels.com/video/a-close-up-of-tea-being-poured-into-a-cup-8507754/",
+  "download_url": "https://videos.pexels.com/video-files/8507754/8507754-hd_1920_1080_25fps.mp4",
+  "license_url": "https://www.pexels.com/license/",
+  "license_checked": "2026-10-31",
+  "license": "Pexels License",
+  "website_use": "Permitted under current Pexels License; downloaded and modified for incorporated website design use.",
+  "attribution": "Not required; creator and Pexels credited voluntarily.",
+  "limitations": "Do not imply endorsement; do not sell unaltered copies or redistribute on stock/wallpaper platforms; do not use as a trademark. This is illustrative footage, not a claim of ownership, actual services, customers or scientific evidence.",
+  "asset": "ritual-scroll.mp4",
+  "poster": "ritual-poster.jpg",
+  "bytes": 2648213,
+  "sha256": "25b72598f6201b518537ec3a0340d2513b29747cd91c6bbecae115908ba3627d",
+  "format": "H.264 MP4, 1280x720, yuv420p, no audio, faststart",
+  "duration_seconds": 16.12,
+  "fps": 25,
+  "keyframe_interval_frames": 12,
+  "processing": "Downscaled and recompressed locally from the linked Pexels download; no third-party purchase or credits.",
+  "viewed": "Decoded and visually inspected frames at 10%, 50%, 90%."
+}
