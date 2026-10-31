@@ -1,0 +1,140 @@
+{
+  "retrieved": "2026-10-31",
+  "css_source_url": "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;1,400&family=Manrope:wght@400;500;600&display=swap",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+  "families": [
+    "Cormorant Garamond",
+    "Manrope"
+  ],
+  "license_records": [
+    {
+      "family": "Cormorant Garamond",
+      "license": "SIL Open Font License 1.1",
+      "license_url": "https://github.com/google/fonts/blob/main/ofl/cormorantgaramond/OFL.txt",
+      "download_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/cormorantgaramond/OFL.txt",
+      "file": "cormorantgaramond-OFL.txt"
+    },
+    {
+      "family": "Manrope",
+      "license": "SIL Open Font License 1.1",
+      "license_url": "https://github.com/google/fonts/blob/main/ofl/manrope/OFL.txt",
+      "download_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/manrope/OFL.txt",
+      "file": "manrope-OFL.txt"
+    }
+  ],
+  "font_files": [
+    {
+      "file": "30893fb892fbfd91.woff2",
+      "source_url": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3bmX5slCNuHLi8bLeY9MK7whWMhyjYp3tKky2F7i6C.woff2",
+      "bytes": 33740,
+      "sha256": "9dc38267bdee93a653200ef3c1e8060e3f1399073432c415c683b419d3b50464",
+      "signature": "wOF2"
+    },
+    {
+      "file": "6ac0105b2e1bc73b.woff2",
+      "source_url": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3bmX5slCNuHLi8bLeY9MK7whWMhyjYpHtKky2F7i6C.woff2",
+      "bytes": 23408,
+      "sha256": "d04439363ec805132dc6c6e6a925f76efe17646f9811af8e10e218ea3dba5335",
+      "signature": "wOF2"
+    },
+    {
+      "file": "8f1497dfb3b015c3.woff2",
+      "source_url": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3bmX5slCNuHLi8bLeY9MK7whWMhyjYpntKky2F7i6C.woff2",
+      "bytes": 11264,
+      "sha256": "826f73ca737feec0eb1004808629973d6b611fddc2bd2a689b5fe331f6be6427",
+      "signature": "wOF2"
+    },
+    {
+      "file": "3ed39130134b7f51.woff2",
+      "source_url": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3bmX5slCNuHLi8bLeY9MK7whWMhyjYqXtKky2F7g.woff2",
+      "bytes": 37776,
+      "sha256": "5d618c462b7a5b74f442e1548880086af71764d9cc7d35c16ab45353da934621",
+      "signature": "wOF2"
+    },
+    {
+      "file": "5e51dee1dd36f209.woff2",
+      "source_url": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3bmX5slCNuHLi8bLeY9MK7whWMhyjYrXtKky2F7i6C.woff2",
+      "bytes": 21132,
+      "sha256": "d81372bae1f872f1418c0b7eb412f8a92a156a950fda8d2383701c75d38969df",
+      "signature": "wOF2"
+    },
+    {
+      "file": "7599a8d0153926fa.woff2",
+      "source_url": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd58jD-h9M8A_6pUKz9ugk.woff2",
+      "bytes": 6816,
+      "sha256": "c2cb6a2a94fe18decdeb820164a6fcafb6a4e8fb865325360107f4a7328a1f3b",
+      "signature": "wOF2"
+    },
+    {
+      "file": "72eafb78ffb8a4fd.woff2",
+      "source_url": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd58jD-hdM8A_6pUKz9ugk.woff2",
+      "bytes": 14764,
+      "sha256": "2f40f754cf7dd1a58efae62c2dc83a91d7bd74e3d6072a066b46f6e62978b64a",
+      "signature": "wOF2"
+    },
+    {
+      "file": "414dc47917d217a6.woff2",
+      "source_url": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd58jD-htM8A_6pUKz9ugk.woff2",
+      "bytes": 20280,
+      "sha256": "550e19a8a021b89c7c279d1bf33aec3d30f254f3bf59cb9d913696841d689942",
+      "signature": "wOF2"
+    },
+    {
+      "file": "491a24073254f872.woff2",
+      "source_url": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd58jD-iNM8A_6pUKz9.woff2",
+      "bytes": 23660,
+      "sha256": "c80b489f34b4bb27a716682b8f8a5c3efec50fb8156e1088a43ed206003b6951",
+      "signature": "wOF2"
+    },
+    {
+      "file": "97202ffcd2a50e3f.woff2",
+      "source_url": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd58jD-jNM8A_6pUKz9ugk.woff2",
+      "bytes": 12736,
+      "sha256": "146e434a788515292ebaaa51aa0b7bf607bd48a3d76d17189d597789b6416a18",
+      "signature": "wOF2"
+    },
+    {
+      "file": "bbf33e318b03d6b3.woff2",
+      "source_url": "https://fonts.gstatic.com/s/manrope/v23/xn7gYHE41ni1AdIRggOxSvfedN62Zw.woff2",
+      "bytes": 14368,
+      "sha256": "93bef303b8220d2f59dbe8db119891c9f38d94f48a26d373c28256fb2b50cba7",
+      "signature": "wOF2"
+    },
+    {
+      "file": "33697b6d3095363f.woff2",
+      "source_url": "https://fonts.gstatic.com/s/manrope/v23/xn7gYHE41ni1AdIRggSxSvfedN62Zw.woff2",
+      "bytes": 9308,
+      "sha256": "6b478f45d63e18352735fd427e92ae4704800a998ec3337c01b59e4f6ef87d44",
+      "signature": "wOF2"
+    },
+    {
+      "file": "27326e8505216318.woff2",
+      "source_url": "https://fonts.gstatic.com/s/manrope/v23/xn7gYHE41ni1AdIRggexSvfedN4.woff2",
+      "bytes": 24436,
+      "sha256": "8bd97e6bbbc1f602a8f791530eed1064c9a357d5731bbc76e3fc587fb068728f",
+      "signature": "wOF2"
+    },
+    {
+      "file": "3a7f440a19240b39.woff2",
+      "source_url": "https://fonts.gstatic.com/s/manrope/v23/xn7gYHE41ni1AdIRggixSvfedN62Zw.woff2",
+      "bytes": 8356,
+      "sha256": "ddbf28cebf2fbbf800d307f020689bed6d1a96c5a22aed50fee23bf7de80d0f1",
+      "signature": "wOF2"
+    },
+    {
+      "file": "a04ad571b2fbb2ba.woff2",
+      "source_url": "https://fonts.gstatic.com/s/manrope/v23/xn7gYHE41ni1AdIRggmxSvfedN62Zw.woff2",
+      "bytes": 15212,
+      "sha256": "27eccb1f8944bc26f6511601bac9284786feb5e5bbb0c8035ff09ac63aaf7c52",
+      "signature": "wOF2"
+    },
+    {
+      "file": "8238ec0eb98771b2.woff2",
+      "source_url": "https://fonts.gstatic.com/s/manrope/v23/xn7gYHE41ni1AdIRggqxSvfedN62Zw.woff2",
+      "bytes": 2584,
+      "sha256": "347c589d57130c68f9829c2cd24969eed590328078ff921ca6000a56e5a2cc84",
+      "signature": "wOF2"
+    }
+  ],
+  "verification": "Every font downloaded and checked for WOFF2 signature; CSS URLs rewritten to relative local filenames."
+}

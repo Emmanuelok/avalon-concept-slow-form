@@ -1,0 +1,30 @@
+[
+  {
+    "file": "hero.jpg",
+    "provider": "Unsplash image CDN",
+    "photo_id": "photo-1608571423902-eed4a5ad8108",
+    "source_url": "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?auto=format&fit=crop&w=1600&q=85",
+    "usage": "Illustrative stock photograph for fictional Avalon concept; no affiliation or claimed property ownership.",
+    "retrieved": "2026-10-31",
+    "width": 1600,
+    "height": 2400,
+    "bytes": 224256,
+    "sha256": "ff0dd66b20b7461962f9612da96af46e257553a77eec9a075456270430dc3ae9",
+    "description": "Unlabelled amber bottle on a wooden pedestal with botanical shadows",
+    "verification": "JPEG signature, decoded dimensions and visual inspection passed"
+  },
+  {
+    "file": "detail.jpg",
+    "provider": "Unsplash image CDN",
+    "photo_id": "photo-1540555700478-4be289fbecef",
+    "source_url": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1400&q=85",
+    "usage": "Illustrative stock photograph for fictional Avalon concept; no affiliation or claimed property ownership.",
+    "retrieved": "2026-10-31",
+    "width": 1400,
+    "height": 933,
+    "bytes": 172391,
+    "sha256": "445b8541cf6b67be3cdec783c5147f70f4501d0c1aacc46c81fe1c15f4f43b03",
+    "description": "Unlabelled white bottle with rolled towel and pink flowers",
+    "verification": "JPEG signature, decoded dimensions and visual inspection passed"
+  }
+]
